@@ -2,7 +2,7 @@
 
 Meu nome é Luiza 
 
--Estou estudando na Alura
+- Estou estudando na Alura
 
 -Estou me desenvolvendo na linguagem JavaScript
 
